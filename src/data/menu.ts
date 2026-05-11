@@ -24,7 +24,7 @@ export const MENU_DATA: MenuItem[] = [
     price: 20,
     category: 'Veg',
     description: 'The soul of Mumbai street food - spicy potato fritter in a bun.',
-    image: 'https://images.unsplash.com/photo-1606491956689-2ea8c5119c85?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1750767396969-f37060ebe07d?q=80&w=1201&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     id: 'v4',
@@ -32,7 +32,7 @@ export const MENU_DATA: MenuItem[] = [
     price: 40,
     category: 'Veg',
     description: 'Buttery mashed mixed veggies served with hot pav.',
-    image: 'https://images.unsplash.com/photo-1601050638917-3606f548f061?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1626132647523-66f5bf380027?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     id: 'v5',
@@ -40,7 +40,7 @@ export const MENU_DATA: MenuItem[] = [
     price: 100,
     category: 'Veg',
     description: 'Scrambled paneer with onions, tomatoes, and aromatic spices.',
-    image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1736239093375-34f0a2f33c7d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     id: 'v6',
@@ -48,7 +48,7 @@ export const MENU_DATA: MenuItem[] = [
     price: 110,
     category: 'Veg',
     description: 'Cubes of paneer cooked in a rich, spicy tomato-based gravy.',
-    image: 'https://images.unsplash.com/photo-1601050638793-68d30cf40682?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80'
   },
 
   // Non-Veg Menu
@@ -74,7 +74,7 @@ export const MENU_DATA: MenuItem[] = [
     price: 150,
     category: 'Non-Veg',
     description: 'Spicy, tangy Indochinese style crispy chicken cubes.',
-    image: 'https://images.unsplash.com/photo-1598511726623-d3a37b389650?auto=format&fit=crop&w=800&q=80'
+    image: 'https://plus.unsplash.com/premium_photo-1675864532625-60efd11cde54?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
 
   // Beverages
@@ -84,7 +84,7 @@ export const MENU_DATA: MenuItem[] = [
     price: 10,
     category: 'Beverages',
     description: 'Classic hot masala chai for that perfect break.',
-    image: 'https://images.unsplash.com/photo-1544787210-2213d2426372?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1634299406775-90f32b656536?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     id: 'b2',
@@ -102,7 +102,7 @@ export const MENU_DATA: MenuItem[] = [
     price: 20,
     category: 'Soft Drinks',
     description: 'Refreshing mango fruit drink.',
-    image: 'https://images.unsplash.com/photo-1533007141571-09bbcfc93144?auto=format&fit=crop&w=800&q=80'
+    image: 'https://www.coca-cola.com/content/dam/onexp/in/en/home-page-test-img/brands/maaza/maaza-bottles/maaza_packshot_1100x1100.jpg'
   },
   {
     id: 'sd2',
@@ -110,7 +110,7 @@ export const MENU_DATA: MenuItem[] = [
     price: 20,
     category: 'Soft Drinks',
     description: 'Popular Indian mango flavored beverage.',
-    image: 'https://images.unsplash.com/photo-1533007141571-09bbcfc93144?auto=format&fit=crop&w=800&q=80'
+    image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/da/cms-assets/cms/product/bbea2a7d-3bc7-4818-8725-8572c5663b0d.png?bg_token=color.background.quaternary'
   },
   {
     id: 'sd3',
@@ -118,7 +118,7 @@ export const MENU_DATA: MenuItem[] = [
     price: 45,
     category: 'Soft Drinks',
     description: 'Vibrant orange flavored sparkling soda.',
-    image: 'https://images.unsplash.com/photo-1554522723-b2a47cb105e3?auto=format&fit=crop&w=800&q=80'
+    image: 'https://www.bbassets.com/media/uploads/p/l/40094180_11-mirinda-soft-drink.jpg'
   },
   {
     id: 'sd4',
